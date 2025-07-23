@@ -22,9 +22,9 @@ This project showcases a sales and operations dashboard built for a gas distribu
 
 ### 🔍 Insights Derived
 
-- The highest sales volume comes from [Region X]
+- Region where the highest revenue comes from 
 - Profit margin dips during certain months due to rising delivery cost
-- Product [Y] performs better in [Area Z]
+- The product that generate more revenue 
 
 ---
 
@@ -32,7 +32,6 @@ This project showcases a sales and operations dashboard built for a gas distribu
 
 - Excel: Pivot Tables, Charts, Slicers
 - Data Cleaning: Excel formulas & formatting
-- SQL (optional): (If initial data was from SQL Server)
 
 ---
 
